@@ -1,6 +1,5 @@
 # Eron-Curiculo
 
-Eron-curículo
 
 html
 
